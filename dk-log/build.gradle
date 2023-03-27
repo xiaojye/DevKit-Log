@@ -24,3 +24,5 @@ android {
         targetCompatibility JavaVersion.VERSION_1_8
     }
 }
+
+apply from: '../maven-publish.gradle'

@@ -5,7 +5,6 @@ import android.content.Context;
 
 import com.jye.devkit.log.DkLog;
 import com.jye.devkit.log.LogConfig;
-import com.jye.devkit.log.format.LogFormatter;
 import com.jye.devkit.log.format.SimpleFormatter;
 import com.jye.devkit.log.printer.DbPrinter;
 import com.jye.devkit.log.printer.FilePrinter;
